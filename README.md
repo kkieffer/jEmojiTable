@@ -32,7 +32,9 @@ this function before setting up your table:
 
 	OpenMojiFont.load();
 	
-Set your table row height appropriately based on the font size you use (see example)
+Set your table row height appropriately based on the font size you use (see example).
+
+Note: there is no support for color emojis. Java renders only vector fonts.
 
 
 ## Example
@@ -50,14 +52,12 @@ The EmojiTableExample class provides a simple example of the table in a JFrame w
 
 ## Third Party Resources
 
-Dependencies are provided in the pom.xml file:
-
 * The [emoji-java library](https://github.com/vdurmont/emoji-java) is a dependency included in the pom file
 * The [openmoji font](https://openmoji.org) is included in the package (Creative Commons License)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. All third party libraries and source code retain their Copyright and license
+This project is licensed under the MIT License - see the LICENSE file for details. All third party libraries and source code retain their Copyright and license
 as specified in their license or source comments (see links above).
 
 
