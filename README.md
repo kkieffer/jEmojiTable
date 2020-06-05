@@ -39,7 +39,7 @@ Set your table row height appropriately based on the font size you use (see exam
 
 The EmojiTableExample class provides a simple example of the table in a JFrame with a listener.
 
-![Demo Screenshot](https://github.com/kkieffer/jZELD/blob/master/demo.jpg "Demo Screenshot")
+![Demo Screenshot](https://github.com/kkieffer/jEmojiTable/blob/master/demo.jpg "Demo Screenshot")
 
 
 ## Getting Started
